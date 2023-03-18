@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\EFCore-Migration-From-Json-File.props" />
+</Project>

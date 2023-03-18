@@ -1,0 +1,12 @@
+C:\Users\ycagr\source\repos\EFCore-Migration-From-Json-File\Model\bin\Debug\net7.0\Model.deps.json
+C:\Users\ycagr\source\repos\EFCore-Migration-From-Json-File\Model\bin\Debug\net7.0\Model.dll
+C:\Users\ycagr\source\repos\EFCore-Migration-From-Json-File\Model\bin\Debug\net7.0\Model.pdb
+C:\Users\ycagr\source\repos\EFCore-Migration-From-Json-File\Model\obj\Debug\net7.0\Model.csproj.AssemblyReference.cache
+C:\Users\ycagr\source\repos\EFCore-Migration-From-Json-File\Model\obj\Debug\net7.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ycagr\source\repos\EFCore-Migration-From-Json-File\Model\obj\Debug\net7.0\Model.AssemblyInfoInputs.cache
+C:\Users\ycagr\source\repos\EFCore-Migration-From-Json-File\Model\obj\Debug\net7.0\Model.AssemblyInfo.cs
+C:\Users\ycagr\source\repos\EFCore-Migration-From-Json-File\Model\obj\Debug\net7.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\ycagr\source\repos\EFCore-Migration-From-Json-File\Model\obj\Debug\net7.0\Model.dll
+C:\Users\ycagr\source\repos\EFCore-Migration-From-Json-File\Model\obj\Debug\net7.0\refint\Model.dll
+C:\Users\ycagr\source\repos\EFCore-Migration-From-Json-File\Model\obj\Debug\net7.0\Model.pdb
+C:\Users\ycagr\source\repos\EFCore-Migration-From-Json-File\Model\obj\Debug\net7.0\ref\Model.dll

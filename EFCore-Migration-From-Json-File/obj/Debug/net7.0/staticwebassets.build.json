@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Gnvsaa6lxFRXsUwzVoYBIuTGMCQ3OPxA8nNuH7Vl1KI=",
+  "Source": "EFCore-Migration-From-Json-File",
+  "BasePath": "_content/EFCore-Migration-From-Json-File",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

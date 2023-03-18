@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EFCore-Migration-From-Json-File.props" />
+</Project>
