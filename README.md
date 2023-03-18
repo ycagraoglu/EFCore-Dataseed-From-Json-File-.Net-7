@@ -1,0 +1,4 @@
+# EFCore-Migration-From-Json-File
+
+Türkiye il ve ilçe bilgilerini içeren json dosyaları ile migration gerçekleştirerek,
+dosya içerisindeki json bilgileri ile şehir ve bu şehirlere bağlı ilçe bilgilerini içeren veritabanı tablolarının oluşmasını sağlar
